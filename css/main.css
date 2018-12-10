@@ -1823,7 +1823,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #e49c33;
+  background: #0bfc88;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2990,4 +2990,10 @@ pre .javascript .function {
   .post-body {
     text-align: justify;
   }
+}
+body {
+  background: url("https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1544418917293&di=317e695602cdfe463c2e06340a919cf6&imgtype=0&src=http%3A%2F%2Fpic.90sjimg.com%2Fback_pic%2Fqk%2Fback_origin_pic%2F00%2F03%2F77%2F56380caea47071afb8631c39261494e3.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: 50% 50%;
 }
